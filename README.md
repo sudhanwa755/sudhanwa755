@@ -1,23 +1,96 @@
 <h1 align="center">Hi 👋, I'm Sudhanwa Kulkarni</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 📍 India</h3>
 
-- 🔭 I’m currently working on **Biometric Attendance System Real-time project using HTML, CSS, JavaScript (frontend), PHP (backend), and MySQL (database)**
+---
 
-- 🌱 I’m currently learning **Advanced SQL, software engineering principles, and data structures & algorithms**
+## 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Java-based applications**
+🎓 B.Tech Computer Engineering student at **G.H. Raisoni College of Engineering & Management**  
+🔧 Skilled in **Java, C++, Python, SQL, HTML, CSS, JavaScript, PHP**  
+💡 Passionate about building practical and impactful software  
+🌱 Constantly learning and growing through real-world projects and certifications  
+🎯 Eager to apply my skills in meaningful tech projects and internships
 
-- 🤝 I’m looking for help with **Projects involving Java, Python, or database-driven applications**
+---
 
-- 💬 Ask me about **Java, Python basics, SQL, C++, or anything related to software development**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **Sudhanwa.kulkarni.work@gmail.com**
+- **Languages:** Java, C++, Python, SQL  
+- **Web Development:** HTML, CSS, JavaScript, PHP  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code, NetBeans, XAMPP  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudhanwa kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanwa kulkarni" height="30" width="40" /></a>
-<a href="https://instagram.com/sudhanwa_1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanwa_1204" height="30" width="40" /></a>
+---
+
+## 🔨 Projects
+
+### 🔐 Biometric Attendance System *(Real-Time Project)*
+**Tech Used:** HTML, CSS, JavaScript (Frontend), PHP (Backend), MySQL (Database)  
+Developed a secure, real-time attendance system using fingerprint authentication.  
+The system includes a responsive web interface, server-side data handling with PHP, and structured storage using MySQL.
+
+---
+
+### 📚 Library Management System  
+**Tech Used:** Java, SQL  
+A desktop application to manage a library of over 1000+ books with full CRUD operations.  
+Supports book issuing, returns, user records, and fine calculations.
+
+---
+
+### 📦 Inventory Management System  
+**Tech Used:** Java, SQL  
+A Java desktop application that enables real-time (offline) stock tracking, inventory updates, and automated report generation for improved inventory control.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL & database optimization  
+- Clean Code principles  
+- Software Development Life Cycle (SDLC)
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Java or Python-based backend applications  
+- Web development projects with MySQL/PHP stack  
+
+---
+
+## 💬 Ask Me About
+
+- Java, Python, C++, SQL  
+- PHP backend logic  
+- Database design & CRUD applications  
+- Debugging and clean coding practices  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [Sudhanwa.kulkarni.work@gmail.com](mailto:Sudhanwa.kulkarni.work@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sudhanwa-kulkarni-15437214](https://linkedin.com/in/sudhanwa-kulkarni-15437214)
+
+---
+
+## ✨ Fun Facts
+
+- 📸 Photography is my creative escape  
+- 🎶 I enjoy music while coding  
+- ✍️ I write poems when inspired  
+- ⚡ Fun Fact: Once fixed a bug by just staring at it long enough 😄
+
+---
+
+<!-- GitHub Stats (Optional - replace your username below) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanwa-kulkarni&show_icons=true&theme=tokyonight" alt="Sudhanwa's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanwa-kulkarni&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanwa-kulkarni&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
