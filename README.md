@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#007acc">Sudhanwa Kulkarni</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 B.Tech Computer Engineering | 🇮🇳 India</h3>
+<h3 align="center">💻 Full Stack Developer | 🎓 B.Tech Computer Engineering |📍 India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
@@ -23,24 +23,20 @@
 ### 🔐 Biometric Attendance System *(Real-Time Project)*
 📌 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
 📝 **Description:** A secure fingerprint-based attendance system with structured tracking and seamless access control.  
-📷 **Preview:**  
-<img src="https://source.unsplash.com/600x300/?biometric,technology" width="600">
+
 
 ---
 
 ### 📚 Library Management System
 📌 **Tech Stack:** Java, SQL  
 📝 **Description:** A robust Java desktop app for managing books, issuing returns, and automated fine calculations.  
-📷 **Preview:**  
-<img src="https://source.unsplash.com/600x300/?library,books" width="600">
+
 
 ---
 
 ### 📦 Inventory Management System  
 📌 **Tech Stack:** Java, SQL  
 📝 **Description:** A Java-based offline inventory tracking solution with automatic stock reporting.  
-📷 **Preview:**  
-<img src="https://source.unsplash.com/600x300/?inventory,storage" width="600">
 
 ---
 
