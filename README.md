@@ -84,13 +84,5 @@ A Java desktop application that enables real-time (offline) stock tracking, inve
 
 ---
 
-<!-- GitHub Stats (Optional - replace your username below) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanwa-kulkarni&show_icons=true&theme=tokyonight" alt="Sudhanwa's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanwa-kulkarni&theme=tokyonight" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanwa-kulkarni&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
-
----
 
 > “First, solve the problem. Then, write the code.” – John Johnson
